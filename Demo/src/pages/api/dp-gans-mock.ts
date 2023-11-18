@@ -2,6 +2,7 @@
 import type { NextApiRequest, NextApiResponse } from "next";
 
 export default function handler(req: NextApiRequest, res: NextApiResponse) {
+  // this output it taken from dp-gans ipynb
   res.status(200).json([
     ["ทำไม", "วัน", "นี้", "ฟ้า", "ถึง", "สดใส", "เป็น", "พิเศษ"],
     ["มอง", "ดู", "ท้องฟ้า", "แล้ว", "วันนี้", "มัน", "ฟ้า", "มาก", "เลย"],
