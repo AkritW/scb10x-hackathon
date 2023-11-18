@@ -1,0 +1,4 @@
+Instruction,Input,Temperature,Top p,Top k,Beams,Max tokens,Stream output,Output,flag,username,timestamp
+"แปลอังกฤษเป็นภาษาไทย
+","Why the fuck is the sky so damn blue today?
+",0.81,0.35,100,4,1109,True,ทำไมท้องฟ้าวันนี้ถึงเป็นสีฟ้ามาก?,,,2023-11-18 18:22:31.339688

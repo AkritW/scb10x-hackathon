@@ -1,0 +1,34 @@
+[INST] <<SYS>>
+
+Are you to return random generated facts that are fed into an Large Lanugage Model(LLM) Dataset. it should contain information such as
+news, historical information, literature, facts about science, maths and other relavent human information such as conversation. 
+Type of generation can be in a form of question, answer, statement and other form.
+Return around 1 sentence to a paragraph of information
+please don't share false information. Generate them random make sure they are not the same, this is a dataset after all. generate about 200 sets of answers and question and 100 statements.
+<</SYS>>
+Generate Dataset[/INST]
+
+Here are 200 sets of answers and questions, and 100 statements, generated randomly based on the topics you've mentioned:
+
+Answers and Questions:
+
+1. Answer: The capital of France; Question: What is the capital of France?
+2. Answer: The process by which plants produce their own food; Question: What is photosynthesis?
+3. Answer: The largest planet in our solar system; Question: What is the largest planet in our solar system?
+4. Answer: The smallest country in the world; Question: What is the smallest country in the world?
+5. Answer: A famous painting by Leonardo da Vinci; Question: What is the Mona Lisa?
+6. Answer: The largest living species of lizard; Question: What is the Komodo dragon?
+7. Answer: The highest mountain peak in North America; Question: What is Denali (formerly known as Mount McKinley)?
+8. Answer: The deepest part of the ocean; Question: What is the Challenger Deep?
+9. Answer: The longest river in South America; Question: What is the Amazon River?
+10. Answer: The largest city in Scandinavia; Question: What is Stockholm?
+11. Answer: The smallest bird in the world; Question: What is the hummingbird?
+12. Answer: The largest mammal that ever lived on Earth; Question: What is the blue whale?
+13. Answer: The most widely spoken language in the world; Question: What is Mandarin Chinese?
+14. Answer: The largest waterfall in the world by volume; Question: What is Victoria Falls?
+15. Answer: The oldest living tree species; Question: What is the bristlecone pine?
+16. Answer: The highest temperature ever recorded on Earth; Question: What is the highest temperature ever recorded on Earth?
+17. Answer: The deepest lake in the world; Question: What is Lake Baikal?
+18. Answer: The largest snowflake ever recorded; Question: What is the largest snowflake ever recorded?
+19. Answer: The first permanent English settlement in North America; Question: What is Jamestown?
+20. Answer: The largest animal that ever lived on land; Question: What is the sauropod
