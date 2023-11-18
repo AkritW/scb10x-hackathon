@@ -15,4 +15,4 @@ Novel Text Generation: Encourages the production of diverse and novel text outpu
 Generator (OpenThaiGPT): Utilizes the openthaigpt/openthaigpt-1.0.0-beta-7b-chat-ckpt-hf model for generating text.
 Discriminator (WangchanBERTa): Employs the airesearch/wangchanberta-base-att-spm-uncased model for evaluating and guiding the text generation process.
 
-![Architecture Flowchart](assets/dpgansarch.png)
+<img width="1008" alt="dpgansarch" src="https://github.com/AkritW/scb10x-hackathon/assets/63712938/a69fa702-dd84-44d7-8065-4d21ba2fd24a">
