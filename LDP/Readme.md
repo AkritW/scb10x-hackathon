@@ -1,3 +1,10 @@
+
+<div align="center">
+  <a href="LDP_Architecture.png">
+    <img src="LDP_Architecture.png" alt="LDP_Architecture" width="800">
+  </a>
+</div>
+
 Apologies for the lack of history commit. There was a lot of problem with the code when running on Runpod.
 Most are run in the notebook and different instance on RunPod, there might be dependency issue.
 
@@ -19,6 +26,22 @@ Most are run in the notebook and different instance on RunPod, there might be de
     - Use `Input: Why is the sky so blue today?  Instruction: แปลอังกฤษเป็นภาษาไทย` ---> `Output: ทำไมท้องฟ้าวันนี้ถึงมีสีคราม?`
     - High temp, High top_k, , BEAM = 4, Low top_p, Stream ON
 
-![img](interface_example.png)
+4. Run all `4Evaluation_chrF++.ipynb`
+    - load the base model with the weights from `LDP/openthaigpt-finetune/synthetic_v2`
+    - load the synthetic dataset from `LDP/out_synthetic_pairs2_clean.csv`
+    - run the inference and calculate the chrF++ score, comparing the Thai unlabeled dataset
+<div align="center">
+  <a href="BackPropagation_Result.png">
+    <img src="BackPropagation_Result.png" alt="BackPropagation_Result" width="800">
+  </a>
+</div>
+
+
+<div align="center">
+  <a href="interface_example.png">
+    <img src="interface_example.png" alt="interface_example" width="800">
+  </a>
+</div>
+
 
 Written by Tinapat Limsila
